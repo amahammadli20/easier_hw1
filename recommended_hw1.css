@@ -37,6 +37,7 @@ body{
     padding-top: 45px;
     position: absolute;
     left: 0;
+    right: 0;
 }
 
 .links{
@@ -142,16 +143,16 @@ a{
 }
 
 .portfolio_main_section{
-    width: 960px;
+    width: 1000px;
     height: 750px;
     margin-bottom: 100px;;
     margin-top: 120px;
-    margin-left: 198px;
+    margin-left: 191px;
     box-sizing: border-box;
 }
 
 .portfolio_left_section_gallery{
-    width: 670px;
+    width: 650px;
     height: 750px;
     border: 2px solid #ddd;
     background-color: #fff;
@@ -173,7 +174,8 @@ a{
 
 .right_section.portfolio_side{
     float:right;
-    margin-top: -753px;
+    margin-top: -754px;
+    margin-left: 30px;
     border: 2px solid #ddd
 }
 

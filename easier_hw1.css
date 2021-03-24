@@ -40,11 +40,6 @@ body{
     margin-left: -37px;
 }
 
-.section_word{
-    display: block;
-    padding-top: 20px;
-    background-color: red;
-}
 
 .article_word{
     display: block;
@@ -56,7 +51,9 @@ body{
     color: #777;
     width: 450px;
     height: 60px;
+    box-sizing: border-box;
     margin-left: 10px;
+    padding-top: 15px;
 }
 
 p{
@@ -65,7 +62,8 @@ p{
     width: 450px;
     height: 60px;
     margin-left: 10px;
-
+    box-sizing: border-box;
+    padding-top: 15px;
 }
 
 aside{
